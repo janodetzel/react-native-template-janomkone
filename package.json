@@ -2,5 +2,23 @@
   "name": "react-native-template-janomkone",
   "version": "0.0.1",
   "author": "Kacper Wiszczuk <kacperwiszczuk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "React Native Essential File Structure Template",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janodetzel/react-native-template-janomkone.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Template"
+  ],
+  "bugs": {
+    "url": "https://github.com/janodetzel/react-native-template-janomkone/issues"
+  },
+  "homepage": "https://github.com/janodetzel/react-native-template-janomkone#readme"
 }
